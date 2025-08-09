@@ -1,13 +1,13 @@
 # 🩺 Breast Cancer using Logistic Regression
 
-This project uses **Logistic Regression** to classify breast cancer tumors as **Malignant (M)** or **Benign (B)** based on features from the **Breast Cancer Wisconsin Dataset**.
+This project uses **Logistic Regression** to classify breast cancer tumors as **Malignant (M)** or **Benign (B)** based on features from the **Breast Cancer Dataset** from Kaggle.
 
 ---
 
 ## 📌 Overview
 - **Goal:** Predict whether a tumor is malignant or benign.
 - **Algorithm:** Logistic Regression
-- **Dataset:** Breast Cancer Wisconsin (Diagnostic) Dataset
+- **Dataset:** Breast Cancer Dataset - https://www.kaggle.com/datasets/wasiqaliyasir/breast-cancer-dataset/data
 - **Input Features:** 30 numerical features describing tumor characteristics (e.g., radius, texture, smoothness)
 - **Output Labels:**  
   - **M** → Malignant (Cancerous)  
